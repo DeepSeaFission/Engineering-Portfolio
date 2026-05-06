@@ -2,7 +2,7 @@
 
 This folder contains project code that I'm proud of.
 
-https://github.com/DeepSeaFission/Engineering-Portfolio/blob/main/Code%20Samples/Images/Integrin%20Brownian%20Motion.mp4
+https://github.com/user-attachments/assets/f4d540c3-f737-4beb-8453-c36b8305148a
 
 ## Integrin Brownian Motion Code
 
