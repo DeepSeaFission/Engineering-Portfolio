@@ -1,0 +1,12 @@
+ipykernel
+jupyter
+matplotlib
+numpy
+pandas
+plotly
+seaborn
+scikit-learn
+openpyxl
+xgboost
+lightgbm
+shap
